@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Jesus '
+    family-names: Zamora Cervantes
+    email: L21212185@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/JesusZamora14/Gemelos-Digitales-Leyes-de-Crecimiento-Exponencial-Zamora21212185
+abstract: |-
+  Tecnológico Nacional de México
+  Instituto Tecnológico de Tijuana
+  Ingeniería Biomédica
+  Gemelos Digitales
+  Práctica 1 Leyes de Crecimiento Exponencial
+keywords:
+  - Ley de crecimiento exponencial
+  - Método de Heund
+  - Nanohidrogeles
+  - Tasa de liberación de fármaco
+  - Farmacocinética
+  - Protocolo basado en modelos
+license: BSD-2-Clause
+date-released: '2025-02-10'
